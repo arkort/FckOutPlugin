@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Fuck Out Plugin",
+  "description": "Click the button in pop-up if you're fucked out",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "img/icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
