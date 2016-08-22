@@ -1,0 +1,28 @@
+{
+  "name": "fckoutplugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tumofeu/FckOutPlugin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tumofeu/FckOutPlugin/issues"
+  },
+  "homepage": "https://github.com/tumofeu/FckOutPlugin#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "typescript": "^1.8.10"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-express": "^0.3.5",
+    "gulp-typescript": "^2.13.6"
+  }
+}
