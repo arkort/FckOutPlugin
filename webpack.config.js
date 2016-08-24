@@ -1,6 +1,7 @@
 module.exports = {
     entry: {
-        app: "./src/index.ts"
+        app: "./src/index.ts",
+        polyfills: "./src/polyfills.ts"
     },
     output: {
         filename: "./dest/[name].js"
